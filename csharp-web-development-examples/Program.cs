@@ -1,4 +1,4 @@
-﻿double fahrenheit;
+﻿gdouble fahrenheit;
 double celsius;
 string input;
 
