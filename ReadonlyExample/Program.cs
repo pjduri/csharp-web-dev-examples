@@ -3,11 +3,11 @@
 //This example is for "Classes Part 2: Customizing Fields"
 
 
-/*  TODO: remove this comment to run the code
+//  TODO: remove this comment to run the code
  
 FinalFields demo = new FinalFields();
 
-// This would result in a compiler error because IntValue has already been initialized.
+/* // This would result in a compiler error because IntValue has already been initialized.
 demo.intValue = 6;
 
 // This isn't allowed since we didn't initialize DoubleValue in the class declaration.
